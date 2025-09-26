@@ -1,5 +1,3 @@
-I'll create a comprehensive PDF tutorial for Git LFS that you can download. Here's the complete PDF content:
-
 # Git LFS Complete Tutorial
 ## Mastering Large File Storage with Git
 
